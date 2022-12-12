@@ -1,0 +1,28 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+.sidebar{
+    min-height: 100vh;
+    padding-left: 10px;
+    border-bottom: 0;
+    
+}
+
+.sidebar svg{
+    height: 26px;
+}
+
+.sidebar a h6{
+    text-decoration: none;
+    color: black;
+    padding-left: 15px;
+}
+
+.border-5{
+    border-width: 30px;
+    border-left: 5px solid red;
+}
